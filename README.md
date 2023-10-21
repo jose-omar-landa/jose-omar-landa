@@ -1,6 +1,11 @@
-## Hello! 👋
+## Hello! I'm Jose Landa. 👋
 
-I'm Jose Landa. I'm currently a student at WGU pursing my Bachelor's in Computer Science. 
+I'm currently a student at WGU pursuing my Bachelor's in Computer Science. 
+
+I'm currently working towards a career change into Software Engineering, as I've been a Registered Nurse for nearly 10 years!
+
+I also enjoy game development, and recently published a small platformer to itch.io!
+
 
 ---
 ### Profile Statistics
@@ -60,6 +65,20 @@ I'm Jose Landa. I'm currently a student at WGU pursing my Bachelor's in Computer
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+
+* **Game Development**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+
+
+---
+### Check out my Itch.io page to see my published games!
+
+[![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://thepandalanda.itch.io/)
+
 
 
 
