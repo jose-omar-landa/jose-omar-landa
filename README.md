@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<!--
-**jose-omar-landa/jose-omar-landa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -18,4 +15,4 @@ Here are some ideas to get you started:
 
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
--->
+
