@@ -18,7 +18,7 @@ I'm Jose Landa. I'm currently a student at WGU pursing my Bachelor's in Computer
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-landa-537939129/)
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](jlanda4@wgu.edu)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](email=jlanda4@wgu.edu)
 
 ---
 ### Skills:
