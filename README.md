@@ -1,10 +1,10 @@
 ## Hello! I'm Jose Landa. 👋
 
-I'm currently a student at WGU pursuing my Bachelor's in Computer Science. 
+I'm a recent Bachelor of Computer Science graduate looking for a software engineering role.
 
-I'm currently working towards a career change into Software Engineering, as I've been a Registered Nurse for nearly 10 years!
+I've been a Registered Nurse for nearly 10 years and am looking to leverage my skills into tech!
 
-I also enjoy game development, and recently published a small platformer to itch.io!
+I enjoy creating applications and also develop video games as a hobby!
 
 
 ---
@@ -23,7 +23,7 @@ I also enjoy game development, and recently published a small platformer to itch
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-landa-537939129/)
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jose.omar.landa@live.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jose.omar.landa@gmail.com)
 
 ---
 ### Skills:
