@@ -1,10 +1,14 @@
 ## Hello! I'm Jose Landa. 👋
 
-I'm a recent Bachelor of Computer Science graduate looking for a software engineering role.
+With a decade of hands-on nursing experience and a robust foundation in computer science, I am dedicated to transforming healthcare through the strategic integration of data and quality improvement methodologies. My unique blend of clinical expertise and technical proficiency allows me to bridge the gap between patient care and innovative healthcare solutions.
 
-I've been a Registered Nurse for nearly 10 years and am looking to leverage my skills into tech!
+Healthcare Experience: Over 10 years as a Registered Nurse, providing compassionate care and advocating for patients across various settings. My clinical background has honed my skills in patient assessment, care coordination, and outcomes management.
 
-I enjoy creating applications and also develop video games as a hobby!
+Technical Expertise: Bachelor’s degree in Computer Science, equipping me with a deep understanding of data systems, software development, and analytics. This technical knowledge empowers me to leverage data-driven insights to enhance healthcare quality and operational efficiency.
+
+Current Focus: Specializing in healthcare quality and data analytics, I am committed to driving evidence-based improvements and optimizing patient care through advanced data analysis and quality improvement initiatives. I work closely with cross-functional teams to implement solutions that enhance clinical outcomes and streamline processes.
+
+Let’s connect if you’re interested in discussing how data and quality improvement can transform healthcare or if you’re looking for a collaborator in advancing healthcare solutions through data-driven strategies.
 
 
 ---
